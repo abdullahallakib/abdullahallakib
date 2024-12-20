@@ -11,3 +11,4 @@
 2024-12-16T10:05:17 - Improve accessibility contrast
 2024-12-17T10:06:10 - Implement lazy loading
 2024-12-19T10:03:31 - Fix mobile nav toggle bug
+2024-12-20T10:02:58 - Fix layout shift on scroll
