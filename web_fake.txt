@@ -43,3 +43,4 @@ Integrate contact form backend - 2025-01-8:04:23
 Fix responsive navbar - 2025-01-6:00:0
 Improve Tailwind layout - 2025-01-8:00:42
 Fix responsive navbar - 2025-01-5:04:11
+Add dark mode toggle - 2025-01-7:04:34
