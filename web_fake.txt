@@ -158,3 +158,4 @@ Fix mobile spacing issue - 2025-02-8:04:1
 Optimize Next.js routes - 2025-02-9:00:9
 Fix responsive navbar - 2025-02-4:03:16
 Fix responsive navbar - 2025-02-6:03:59
+Add dark mode toggle - 2025-02-1:04:48
