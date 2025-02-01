@@ -159,3 +159,4 @@ Optimize Next.js routes - 2025-02-9:00:9
 Fix responsive navbar - 2025-02-4:03:16
 Fix responsive navbar - 2025-02-6:03:59
 Add dark mode toggle - 2025-02-1:04:48
+Refactor Tailwind config - 2025-02-2:00:27
