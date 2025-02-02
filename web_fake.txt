@@ -131,3 +131,4 @@ Fix responsive navbar - 2025-02-7:01:52
 Improve Tailwind layout - 2025-02-5:01:18
 Refactor React components - 2025-02-4:01:58
 Refactor Tailwind config - 2025-02-6:02:31
+Add dark mode toggle - 2025-02-3:05:45
