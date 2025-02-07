@@ -160,3 +160,4 @@ Fix responsive navbar - 2025-02-4:03:16
 Fix responsive navbar - 2025-02-6:03:59
 Add dark mode toggle - 2025-02-1:04:48
 Refactor Tailwind config - 2025-02-2:00:27
+Refactor Tailwind config - 2025-02-8:04:0
